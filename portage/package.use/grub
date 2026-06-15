@@ -1,1 +1,1 @@
-sys-boot/grub mount
+sys-boot/grub mount -themes -fonts
