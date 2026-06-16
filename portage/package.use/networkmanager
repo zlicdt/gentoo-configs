@@ -1,1 +1,1 @@
-net-misc/networkmanager -ppp -wext
+net-misc/networkmanager -ppp -wext tools wifi
